@@ -108,7 +108,7 @@ name = st.text_input(".text_input: Enter Your name", "Type Here ...")
 # .title() is used to get the input text string
 if(st.button('.button: Submit')):
 	result = name.title()
-	st.success(.success: result)
+	st.success(result)
 
 # slider
 
