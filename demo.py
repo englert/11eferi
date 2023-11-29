@@ -14,10 +14,10 @@ st.subheader(".subheader: This is a subheader")
 st.text(".text: Hello GeeksForGeeks!!!")
 
 # Markdown
-st.markdown("### This is a markdown")
+st.markdown("### .markdown: This is a markdown")
 
 # success
-st.success("Success")
+st.success(".success: Success")
 
 # success
 st.info(".info: Information")
